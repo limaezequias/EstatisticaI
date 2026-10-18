@@ -1,0 +1,9 @@
+- Os modelos servem para descrever e interpretar fenômenos aleatórios
+
+- Nem sempre é possível elaborar um modelo determinístico, especificamente quando existem muitas variáveis envolvidas. Assumimos que o evento é aleatório é tentamos formalizar com modelos probabilísticos
+
+- "os modelos são representações simplificadas da realidade"
+
+- na estatística, chance é a razão de duas probabilidades
+
+> preciso fazer algum curso que envolva inteligência artificial, seja para construção de modelos probabilísticos, ciência de dados, engenharia de dados, econometria, precificação, etc.
